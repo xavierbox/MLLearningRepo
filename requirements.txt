@@ -23,6 +23,8 @@ torch
 torchvision
 torchaudio
 
+statsmodels
+
 
 joblib==1.3.2
 
